@@ -2,7 +2,7 @@ class professor {
 	String nome;
 	int	qt_horarios;
 	int horarios_nquer[]; //int horarios_nquer[qt_horarios];
-
+	
 	public void set_nome (String nome) {
 		this.nome = nome;
 	}
